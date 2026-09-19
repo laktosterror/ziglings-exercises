@@ -1,3 +1,5 @@
+Contains my solves of the ziglings exercises.
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
